@@ -12,14 +12,14 @@ Node, plus the following packages via npm:
 - **fs**
 - **uuid**
 
-To generate Anki decks from the output of quiz2anki:
+To generate Anki decks from the output of quiz2cards:
 
 - [**mnemocards**](https://github.com/guiferviz/mnemocards)
 
 ## Usage
 
-1. In the same directory as the `quiz2anki.js` file, place the quiz data in a .txt file.
-2. With node.js installed, run `node quiz2anki.js`
+1. In the same directory as the `quiz2cards.js` file, place the quiz data in a .txt file.
+2. With node.js installed, run `node quiz2cards.js`
 3. When prompted, type the name of the file to process it.
 
 ## Documentation
@@ -30,11 +30,11 @@ _Generating flashcard quiz data exports from quizlet.com:_
 - When exporting, use custom markers for questions and answers w/o newlines/cr
   - The defaults used by this script are ANSWER and QUESTION
 - Once the data is on the clipboard, save it in a file.
-- Place this file in the same directory as quiz2anki.js.
+- Place this file in the same directory as quiz2cards.js.
 
 _Steps for generating one or more Anki decks:_
 
-- Export quiz questions to a file, then run `node quiz2anki.js`
+- Export quiz questions to a file, then run `node quiz2cards.js`
 - When prompted, enter the name of the file
 - Repeat for all exported quiz sets
 - With [mnemocards](https://github.com/guiferviz/mnemocards) installed and on $PATH:
