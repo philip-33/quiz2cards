@@ -2,7 +2,7 @@
 
 ## About
 
-Quiz2Cards is a script that converts flashcard exports from Quizlet.com into the '.cards' format used by a separate program, [Mnemocards](https://github.com/guiferviz/mnemocards) with the corresponding configuration file. Mnemocards can be used to generate an Anki deck file (.apkg).
+Quiz2Cards is a script that converts flashcard sets exported from quizlet.com into [Mnemocards](https://github.com/guiferviz/mnemocards) '.cards' format. It also generates the required configuration file that Mnemocards needs to generate an Anki deck (.apkg).
 
 ## Prerequisites
 
