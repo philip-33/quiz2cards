@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "name": "sample-cards",
+      "decks": [
+        {
+          "id": "a3912a61-2b70-4a07-9318-dda3c21bd713",
+          "name": "sample-cards quiz",
+          "src": [
+            {
+              "type": "markdown",
+              "file": "sample-cards.cards",
+              "show_tags": true,
+              "card_properties": {
+                "tags": [
+                  "sample-cards"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

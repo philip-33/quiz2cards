@@ -1,0 +1,2 @@
+What is a Runbook?ANSWERPowershell scripts that use the Azure SDK to automate deployment and configurationQUESTIONWhat does this command do?
+docker image pull [OPTIONS] NAME[:TAG|@DIGEST]ANSWERPulls an image or a repository from a registry.QUESTIONWhat is the maximum time an Azure Function can run?ANSWER10 minutes

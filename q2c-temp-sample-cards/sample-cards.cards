@@ -1,0 +1,25 @@
+
+<<<
+id: db733098-f3f5-4a8c-98e2-87ab20bbfd83
+===
+# What is a Runbook?
+---
+Powershell scripts that use the Azure SDK to automate deployment and configuration
+>>>
+
+<<<
+id: 588411e9-0f47-47be-8507-e72ffad3a53f
+===
+# What does this command do?
+docker image pull [OPTIONS] NAME[:TAG|@DIGEST]
+---
+Pulls an image or a repository from a registry.
+>>>
+
+<<<
+id: a91ba224-2972-4882-a805-c5c991161d82
+===
+# What is the maximum time an Azure Function can run?
+---
+10 minutes
+>>>
