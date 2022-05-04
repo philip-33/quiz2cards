@@ -50,3 +50,10 @@ Temp folders can be deleted once the decks are generated. If desired, the config
 - _./q2c-temp-<user-deck-name>/_ : temp subfolder
 - _./q2c-temp-<user-deck-name>/cards_config.json_ : configuration file for mnemocards deck gen
 - _./q2c-temp-<user-deck-name>/<user-deck-name>.cards_ : exported questions converted into .cards format.
+
+## Todo
+
+- Add MIT License
+- Integrate Mnemocards completely so an Anki deck is generated
+- Rename the program at that point? Quizlet2Anki?
+ 
